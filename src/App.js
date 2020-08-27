@@ -1,10 +1,21 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import AllCourse from './Components/CourseName/CourseName';
+import CourseName from './Components/CourseName/CourseName';
+import Item from './Components/Item/Item';
+
+
+
+
 
 function App() {
+ 
   return (
-    <h1>Hello World</h1>
+    
+    <div>
+      <CourseName></CourseName>
+
+    </div>
   );
 }
 

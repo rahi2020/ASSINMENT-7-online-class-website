@@ -1,0 +1,17 @@
+.course-container{
+    display: flex;
+}
+.item-container{
+    width: 50%;
+    margin-left: 100px;
+    margin-right: 30px;
+    margin-top:10rem;
+    border-right: 1px solid lightgray;
+}
+.cart-container{
+    margin-top:10rem;
+}
+.university{
+    margin-top: 3rem;
+    margin-left: 2rem;
+}
